@@ -5,5 +5,11 @@ class Cat:
     
     def mew(self):
         if self.age < 1:
-            return "cute meeeeew"
+            return self.getCuteMew()
+        return self.getNormalMew()
+
+    def getCuteMew(self):
+        return "cute meeeeew"
+
+    def getNormalMew(self):
         return "mew"
