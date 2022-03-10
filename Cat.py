@@ -13,3 +13,6 @@ class Cat:
 
     def getNormalMew(self):
         return "mew"
+
+    def rideLicorne(self, licorne):
+        return "I'm riding this %s", licorne
