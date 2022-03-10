@@ -12,4 +12,4 @@ class Licorne:
             return "I'm juste a horse buddy"
 
     def sparklesEverywhere(self):
-        return "SPARKLES!!!!"
+        return "SPARKLES!!!! AND MORE!"
